@@ -1,0 +1,1 @@
+تعليمات النشر على GitHub Pages:\n1) ادخل لحساب GitHub (azgabdo755-art)\n2) أنشئ repo باسم azgabdo755-art.github.io\n3) ارفع جميع الملفات واضغط Commit\n4) اذهب للSettings > Pages وحدد Branch main وRoot\n5) بعد دقائق شغل الموقع على https://azgabdo755-art.github.io/\nلمساعدة إضافية، قل لي.
